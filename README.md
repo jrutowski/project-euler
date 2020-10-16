@@ -1,7 +1,6 @@
 
-##**What's this about?** 
-This is a collection of some of my solutions to the Project Euler problems available at [link](http://projecteuler.net) (so spoiler alert). I did my best to organize them in a fashion
-such that the structure would be understandable! So far there are 13 problem solutions (and hopefully many more to come).
+## **What's this about?** 
+This is a collection of some of my solutions to the Project Euler problems available at http://projecteuler.net (so spoiler alert). For those who are not familiar, Project Euler is a collection of 700+ mathematics prolems that are to be solved using computation (although you could do some of these by hand but it might take longer than you'd like). I particularly enjoyed them because they were quite challenging and I learned alot about efficient computation (my favorite example of this is the *prime_factors_rapid* function used in Problem 3. 
 
 ```python
 ##############################################
