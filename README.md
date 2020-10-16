@@ -1,5 +1,6 @@
 
-**What's this about?** This is a collection of some of my solutions to the Project Euler problems available at [link]projecteuler.net[/link] (so spoiler alert). I did my best to organize them in a fashion
+##**What's this about?** 
+This is a collection of some of my solutions to the Project Euler problems available at [link](http://projecteuler.net) (so spoiler alert). I did my best to organize them in a fashion
 such that the structure would be understandable! So far there are 13 problem solutions (and hopefully many more to come).
 
 ```python
